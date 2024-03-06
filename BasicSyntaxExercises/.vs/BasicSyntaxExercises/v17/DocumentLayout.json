@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\CPPProgrammingFundamentals\\BasicSyntaxExercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90E39EB7-4646-45EB-86FA-029330612069}|strongNumber\\strongNumber.vcxproj|C:\\Projects\\CPPProgrammingFundamentals\\BasicSyntaxExercises\\strongNumber\\strongNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90E39EB7-4646-45EB-86FA-029330612069}|strongNumber\\strongNumber.vcxproj|solutionrelative:strongNumber\\strongNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "strongNumber.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPProgrammingFundamentals\\BasicSyntaxExercises\\strongNumber\\strongNumber.cpp",
+              "RelativeDocumentMoniker": "strongNumber\\strongNumber.cpp",
+              "ToolTip": "C:\\Projects\\CPPProgrammingFundamentals\\BasicSyntaxExercises\\strongNumber\\strongNumber.cpp",
+              "RelativeToolTip": "strongNumber\\strongNumber.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-06T11:24:25.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
