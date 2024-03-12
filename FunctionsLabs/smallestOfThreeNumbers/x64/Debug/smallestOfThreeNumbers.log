@@ -1,0 +1,3 @@
+﻿  smallestOfThreeNumbers.cpp
+C:\Projects\CPPProgrammingFundamentals\FunctionsLabs\smallestOfThreeNumbers\smallestOfThreeNumbers.cpp(24,1): warning C4715: 'smallestNumber': not all control paths return a value
+  smallestOfThreeNumbers.vcxproj -> C:\Projects\CPPProgrammingFundamentals\FunctionsLabs\x64\Debug\smallestOfThreeNumbers.exe
