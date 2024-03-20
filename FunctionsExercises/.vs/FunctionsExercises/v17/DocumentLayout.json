@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\CPPProgrammingFundamentals\\FunctionsExercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA495ADE-621B-4E51-9699-3DA1A6C50AB4}|greaterOfTwoValues\\greaterOfTwoValues.vcxproj|C:\\Projects\\CPPProgrammingFundamentals\\FunctionsExercises\\greaterOfTwoValues\\greaterOfTwoValues.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA495ADE-621B-4E51-9699-3DA1A6C50AB4}|greaterOfTwoValues\\greaterOfTwoValues.vcxproj|solutionrelative:greaterOfTwoValues\\greaterOfTwoValues.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "greaterOfTwoValues.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPProgrammingFundamentals\\FunctionsExercises\\greaterOfTwoValues\\greaterOfTwoValues.cpp",
+              "RelativeDocumentMoniker": "greaterOfTwoValues\\greaterOfTwoValues.cpp",
+              "ToolTip": "C:\\Projects\\CPPProgrammingFundamentals\\FunctionsExercises\\greaterOfTwoValues\\greaterOfTwoValues.cpp",
+              "RelativeToolTip": "greaterOfTwoValues\\greaterOfTwoValues.cpp",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwBkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-20T17:03:08.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

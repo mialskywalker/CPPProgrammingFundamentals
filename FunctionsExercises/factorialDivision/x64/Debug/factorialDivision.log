@@ -1,0 +1,3 @@
+﻿  factorialDivision.cpp
+C:\Projects\CPPProgrammingFundamentals\FunctionsExercises\factorialDivision\factorialDivision.cpp(15,9): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+  factorialDivision.vcxproj -> C:\Projects\CPPProgrammingFundamentals\FunctionsExercises\x64\Debug\factorialDivision.exe
