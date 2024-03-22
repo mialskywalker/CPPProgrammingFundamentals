@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Projects\\CPPProgrammingFundamentals\\ArraysLab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D73DEAF-3BAF-4ECD-BDFF-2016B663E5DA}|printNumbersInReverseOrder\\printNumbersInReverseOrder.vcxproj|C:\\Projects\\CPPProgrammingFundamentals\\ArraysLab\\printNumbersInReverseOrder\\printNumbersInReverseOrder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8D73DEAF-3BAF-4ECD-BDFF-2016B663E5DA}|printNumbersInReverseOrder\\printNumbersInReverseOrder.vcxproj|solutionrelative:printNumbersInReverseOrder\\printNumbersInReverseOrder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF1215FC-7FAA-4734-8829-DF2F04EB5FBD}|dayOfWeek\\dayOfWeek.vcxproj|C:\\Projects\\CPPProgrammingFundamentals\\ArraysLab\\dayOfWeek\\dayOfWeek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BF1215FC-7FAA-4734-8829-DF2F04EB5FBD}|dayOfWeek\\dayOfWeek.vcxproj|solutionrelative:dayOfWeek\\dayOfWeek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{774254B1-D1F9-489D-B1B8-27F6E1CEEFA2}|equalArrays\\equalArrays.vcxproj|C:\\Projects\\CPPProgrammingFundamentals\\ArraysLab\\equalArrays\\equalArrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{774254B1-D1F9-489D-B1B8-27F6E1CEEFA2}|equalArrays\\equalArrays.vcxproj|solutionrelative:equalArrays\\equalArrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "printNumbersInReverseOrder.cpp",
-              "DocumentMoniker": "C:\\Projects\\CPPProgrammingFundamentals\\ArraysLab\\printNumbersInReverseOrder\\printNumbersInReverseOrder.cpp",
-              "RelativeDocumentMoniker": "printNumbersInReverseOrder\\printNumbersInReverseOrder.cpp",
-              "ToolTip": "C:\\Projects\\CPPProgrammingFundamentals\\ArraysLab\\printNumbersInReverseOrder\\printNumbersInReverseOrder.cpp",
-              "RelativeToolTip": "printNumbersInReverseOrder\\printNumbersInReverseOrder.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Title": "equalArrays.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPProgrammingFundamentals\\ArraysLab\\equalArrays\\equalArrays.cpp",
+              "RelativeDocumentMoniker": "equalArrays\\equalArrays.cpp",
+              "ToolTip": "C:\\Projects\\CPPProgrammingFundamentals\\ArraysLab\\equalArrays\\equalArrays.cpp",
+              "RelativeToolTip": "equalArrays\\equalArrays.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-21T18:28:49.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "dayOfWeek.cpp",
-              "DocumentMoniker": "C:\\Projects\\CPPProgrammingFundamentals\\ArraysLab\\dayOfWeek\\dayOfWeek.cpp",
-              "RelativeDocumentMoniker": "dayOfWeek\\dayOfWeek.cpp",
-              "ToolTip": "C:\\Projects\\CPPProgrammingFundamentals\\ArraysLab\\dayOfWeek\\dayOfWeek.cpp",
-              "RelativeToolTip": "dayOfWeek\\dayOfWeek.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-21T18:23:36.661Z",
+              "WhenOpened": "2024-03-22T11:56:46.022Z",
               "EditorCaption": ""
             }
           ]
