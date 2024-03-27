@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Projects\\CPPProgrammingFundamentals\\ArraysExercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CA3E2F7-8794-426B-9B26-220947EEFFC2}|longestSequence\\longestSequence.vcxproj|C:\\Projects\\CPPProgrammingFundamentals\\ArraysExercises\\longestSequence\\longestSequence.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2CA3E2F7-8794-426B-9B26-220947EEFFC2}|longestSequence\\longestSequence.vcxproj|solutionrelative:longestSequence\\longestSequence.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E70110D6-D902-4CE6-B0C8-54EC67C98E8C}|magicSum\\magicSum.vcxproj|C:\\Projects\\CPPProgrammingFundamentals\\ArraysExercises\\magicSum\\magicSum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E70110D6-D902-4CE6-B0C8-54EC67C98E8C}|magicSum\\magicSum.vcxproj|solutionrelative:magicSum\\magicSum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "longestSequence.cpp",
-              "DocumentMoniker": "C:\\Projects\\CPPProgrammingFundamentals\\ArraysExercises\\longestSequence\\longestSequence.cpp",
-              "RelativeDocumentMoniker": "longestSequence\\longestSequence.cpp",
-              "ToolTip": "C:\\Projects\\CPPProgrammingFundamentals\\ArraysExercises\\longestSequence\\longestSequence.cpp",
-              "RelativeToolTip": "longestSequence\\longestSequence.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Title": "magicSum.cpp",
+              "DocumentMoniker": "C:\\Projects\\CPPProgrammingFundamentals\\ArraysExercises\\magicSum\\magicSum.cpp",
+              "RelativeDocumentMoniker": "magicSum\\magicSum.cpp",
+              "ToolTip": "C:\\Projects\\CPPProgrammingFundamentals\\ArraysExercises\\magicSum\\magicSum.cpp",
+              "RelativeToolTip": "magicSum\\magicSum.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-25T14:59:39.03Z",
+              "WhenOpened": "2024-03-27T14:08:44.578Z",
               "EditorCaption": ""
             }
           ]
